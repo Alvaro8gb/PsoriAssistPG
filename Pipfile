@@ -21,6 +21,7 @@ feedparser = "*"
 black = "*"
 flake8 = "*"
 typing = "*"
+typing-extensions = "*"
 
 [dev-packages]
 
