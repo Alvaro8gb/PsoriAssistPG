@@ -1,6 +1,9 @@
 
 # Hackathon Boehringer Ingelheim: Dermatología de Precisión 
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://pandem-ia-cyl.streamlit.app/](https://psoriassistpg.streamlit.app/))
+
+
 ## Contexto 
 
 El Dr. Carlos, un dermatólogo apasionado, se encuentra ante un misterio médico: sus pacientes presentan síntomas desconcertantes que sugieren una enfermedad rara y compleja, la **Psoriasis Pustulosa Generalizada (PPG)**. Esta enfermedad autoinmune crónica causa pústulas dolorosas en la piel y puede afectar significativamente la calidad de vida de los pacientes. El camino hacia el diagnóstico es intrincado, y cada paso en falso puede retrasar el tratamiento crucial.
