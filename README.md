@@ -35,10 +35,18 @@ Con PsoriAssistPG, los dermatólogos cuentan con una herramienta integral para m
 
 ## Modulos
 
+Este proyecto proporciona una plataforma integral para el diagnóstico y tratamiento de la Psoriasis Pustulosa Generalizada (PPG) con el objetivo de ayudar a los dermatólogos a tomar decisiones basadas en evidencia mediante un cuestionario, un dashboard de visualización y un sistema de recomendación basado en algoritmos. 
 
-### 3.1 Orientación al Diagnóstico y Valoración Global
+La aplicación esta implementada con una arquitectura multicapa con tres modulos: Formulario Detección, Diagnostico Médico y Referencias Actualizadas:
 
-Este proyecto proporciona una plataforma integral para el diagnóstico y tratamiento de la Psoriasis Pustulosa Generalizada (PPG) con el objetivo de ayudar a los dermatólogos a tomar decisiones basadas en evidencia mediante un cuestionario, un dashboard de visualización y un sistema de recomendación basado en algoritmos.
+
+<div>
+    <img src="docs/architecture.jpeg" alt="Architecture"  />
+
+</div>
+
+
+
 
 #### 1. Formulario de Detección
 El formulario de detección consiste en un **Cuestionario Breve (13 preguntas)** dirigido al dermatólogo para recoger información relevante sobre síntomas, antecedentes clínicos y factores desencadenantes de PPG.
