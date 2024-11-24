@@ -1,0 +1,51 @@
+ehr,fiebre,pustulas,distribucion_pustulas,sobre_areas_enrojecidas,otros_sintomas,dolor_articulaciones,lesiones_escamosas,psoriasis,familiares_psoriasis,brotes_similares,lesion_mas_de_3_meses,sintomas_post_infeccion,cambio_medicamento,estres_infecciones,vacunacion_reciente,fecha,resultado
+0,Sí,Sí,No,No,No,No,Sí,No,No,No,Sí,No,No,Sí,No,2023-03-16 22:25:48,Sospecha
+1,Sí,No,No,No sabe,Sí,Sí,No,Sí,No,No,Sí,Sí,Sí,No,No,2024-03-10 13:17:14,Sospecha
+2,No,Sí,No,No sabe,No,Sí,No,Sí,Sí,No,No,Sí,Sí,No,Sí,2023-01-11 10:41:45,Sospecha
+3,Sí,Sí,No sabe,No sabe,Sí,No,No,Sí,Sí,Sí,No,No,No,No,No,2023-04-26 10:16:23,Sospecha
+4,Sí,No,No,No,No,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,Sí,2020-06-25 15:25:10,Sospecha
+5,Sí,Sí,Sí,No sabe,No,No,Sí,No,No,Sí,Sí,Sí,Sí,No,Sí,2023-05-15 02:52:34,Probablemente
+6,No,Sí,No sabe,No,No,No,No,No,No,No,Sí,No,No,No,Sí,2024-10-01 11:58:49,No
+7,No,No,No,No sabe,Sí,Sí,No,No,Sí,Sí,No,Sí,Sí,No,Sí,2024-03-25 13:00:06,Sospecha
+8,No,Sí,No,No,Sí,Sí,No,Sí,No,Sí,Sí,No,No,Sí,Sí,2024-09-07 13:20:59,Sospecha
+9,No,Sí,No,No sabe,Sí,Sí,No,Sí,No,No,No,Sí,No,Sí,Sí,2021-03-16 09:05:52,Sospecha
+10,Sí,No,No sabe,No sabe,No,No,No,Sí,Sí,Sí,Sí,No,No,No,No,2024-07-24 21:31:45,Sospecha
+11,Sí,No,No sabe,No sabe,Sí,Sí,Sí,Sí,No,Sí,No,No,Sí,Sí,No,2022-04-04 17:37:22,Sospecha
+12,Sí,No,No sabe,No sabe,No,No,Sí,No,No,No,Sí,No,No,Sí,Sí,2021-06-21 14:02:59,No
+13,Sí,Sí,No sabe,No sabe,No,No,Sí,Sí,No,Sí,Sí,Sí,No,No,Sí,2023-12-27 23:27:26,Probablemente
+14,No,No,No sabe,No sabe,Sí,Sí,No,Sí,No,Sí,Sí,No,Sí,No,No,2024-07-23 00:41:14,Sospecha
+15,No,No,Sí,No sabe,Sí,Sí,Sí,Sí,Sí,Sí,No,Sí,No,Sí,Sí,2024-10-12 00:09:33,Sospecha
+16,No,Sí,No,No,No,No,No,Sí,Sí,No,Sí,No,Sí,No,No,2020-04-08 03:02:50,Sospecha
+17,Sí,No,No sabe,Sí,Sí,Sí,Sí,No,Sí,No,No,Sí,No,No,Sí,2022-12-05 21:44:59,Sospecha
+18,No,No,No,No sabe,No,Sí,No,No,No,Sí,Sí,Sí,Sí,No,Sí,2020-03-16 13:07:48,Sospecha
+19,No,Sí,No sabe,No,No,Sí,Sí,No,No,No,Sí,Sí,No,No,Sí,2020-09-03 05:04:01,Sospecha
+20,Sí,No,No sabe,No sabe,Sí,No,No,No,No,Sí,Sí,No,No,No,No,2023-10-06 11:44:21,Sospecha
+21,No,No,No,No sabe,Sí,No,No,Sí,No,Sí,No,Sí,No,No,Sí,2022-06-02 22:31:32,Sospecha
+22,Sí,Sí,No sabe,No sabe,No,No,No,Sí,No,No,Sí,Sí,No,Sí,No,2022-07-01 18:53:10,Sospecha
+23,Sí,Sí,No sabe,Sí,No,No,Sí,Sí,Sí,No,No,No,No,No,No,2020-07-27 20:52:17,Sospecha
+24,No,No,No sabe,No sabe,No,No,Sí,Sí,No,Sí,No,No,No,Sí,Sí,2024-08-02 04:33:41,Sospecha
+25,Sí,Sí,No sabe,Sí,No,Sí,No,No,No,No,No,Sí,No,No,No,2023-06-15 14:13:16,Sospecha
+26,No,No,No sabe,No,No,No,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,2023-09-23 20:15:59,Sospecha
+27,No,Sí,Sí,No sabe,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,No,Sí,2022-11-24 13:36:20,Probablemente
+28,Sí,No,No sabe,No sabe,Sí,Sí,No,Sí,No,Sí,No,No,Sí,Sí,Sí,2022-03-23 21:50:54,Sospecha
+29,No,Sí,No sabe,No sabe,Sí,Sí,No,No,Sí,No,No,Sí,Sí,Sí,Sí,2021-06-02 18:04:02,Sospecha
+30,Sí,Sí,No sabe,No,No,No,Sí,Sí,Sí,No,Sí,No,No,Sí,Sí,2024-02-03 07:48:59,Sospecha
+31,Sí,Sí,Sí,Sí,Sí,Sí,Sí,No,Sí,No,No,No,No,Sí,No,2023-01-04 20:26:14,Sospecha
+32,No,Sí,No sabe,No,No,No,No,No,No,Sí,Sí,No,No,No,No,2023-12-29 15:52:22,Sospecha
+33,Sí,No,No,No sabe,No,Sí,No,No,No,Sí,Sí,No,No,Sí,Sí,2020-05-14 20:55:40,Sospecha
+34,Sí,No,No sabe,No,Sí,No,Sí,No,Sí,No,Sí,No,Sí,Sí,No,2023-02-27 21:23:06,Sospecha
+35,No,No,Sí,No,No,No,Sí,No,No,Sí,Sí,Sí,Sí,No,No,2023-10-12 19:32:01,Sospecha
+36,No,No,No,No sabe,Sí,Sí,Sí,Sí,Sí,Sí,No,Sí,No,Sí,Sí,2020-12-12 09:53:00,Sospecha
+37,Sí,No,No sabe,No sabe,Sí,No,Sí,No,No,Sí,Sí,No,No,Sí,No,2021-11-10 14:07:13,Sospecha
+38,No,No,No sabe,No sabe,No,No,Sí,No,No,No,Sí,No,No,Sí,Sí,2023-03-16 10:59:25,No
+39,No,No,Sí,No,No,Sí,Sí,No,Sí,Sí,No,Sí,No,No,No,2020-08-19 16:37:56,No
+40,Sí,Sí,No,No,Sí,Sí,Sí,Sí,No,No,No,Sí,No,No,No,2024-08-30 01:10:22,Sospecha
+41,No,Sí,Sí,No,Sí,Sí,Sí,No,No,Sí,No,Sí,Sí,Sí,No,2024-03-07 01:47:17,Sospecha
+42,No,No,No,No sabe,Sí,Sí,No,No,Sí,No,No,Sí,Sí,No,No,2021-07-16 04:05:18,No
+43,Sí,No,No,No sabe,No,No,No,Sí,No,Sí,No,Sí,No,No,No,2020-06-24 16:21:15,Sospecha
+44,No,No,No,No sabe,No,No,Sí,No,Sí,No,No,Sí,No,Sí,No,2021-07-24 15:01:52,No
+45,No,Sí,No,No,Sí,No,No,No,Sí,No,No,No,Sí,No,Sí,2024-10-25 01:44:39,No
+46,Sí,Sí,Sí,Sí,No,No,No,No,No,No,Sí,Sí,No,No,No,2024-08-27 01:40:07,Sospecha
+47,Sí,Sí,No,No sabe,Sí,No,Sí,Sí,Sí,Sí,Sí,No,No,No,No,2023-08-05 12:24:53,Probablemente
+48,No,No,No,No,No,Sí,No,No,Sí,No,No,No,Sí,Sí,No,2022-12-28 06:17:10,No
+49,Sí,No,No sabe,No sabe,Sí,No,No,No,Sí,No,Sí,No,No,Sí,No,2024-04-16 17:43:49,No
