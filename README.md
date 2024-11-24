@@ -1,7 +1,7 @@
 
 # Hackathon Boehringer Ingelheim: Dermatología de Precisión 
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://pandem-ia-cyl.streamlit.app/](https://psoriassistpg.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://psoriassistpg.streamlit.app)
 
 
 ## Contexto 
